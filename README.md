@@ -1,22 +1,31 @@
 # Searchify-Google-Search 2.0-clone
 
+### Overview
 
-## Getting Started with Create React App
+Searchify is completely responsive and Real custom made google search clone which provies user an ability to search for up to date results, news, images and videos build using `React.js` and `talewind CSS` and deployed on `Netlify`.
+
+- To view the Deployed Application, click on the link given below : 
+  **Searchify Google clone Web App** : *[https://searchify-google-clone-app.netlify.app/search](https://searchify-google-clone-app.netlify.app/search)*
+  
+  
+
+
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+#### Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+#### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
 
 ### `npm run build`
 
