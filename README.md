@@ -5,7 +5,7 @@
 Searchify is completely responsive and Real custom made google search clone which provies user an ability to search for up to date results, news, images and videos build using `React.js` and `talewind CSS` and `Google search API` and deployed on `Netlify`.
 
 - To view the Deployed Application, click on the link given below : 
-  **Searchify Google clone Web App** : *[https://searchify-google-clone-app.netlify.app/search](https://searchify-google-clone-app.netlify.app/search)*
+  **Searchify Google clone Web App** : *[https://searchify-google-clone-app.netlify.app/](https://searchify-google-clone-app.netlify.app/)*
   
   
 
