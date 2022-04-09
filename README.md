@@ -7,11 +7,13 @@ Searchify is completely responsive and Real custom made google search clone Web 
 - To view the Deployed Application, click on the link given below : 
   **Searchify Google clone Web App** : *[https://searchify-google-clone-app.netlify.app/](https://searchify-google-clone-app.netlify.app/)*
   
-**Snapshot of App**
-![searchify](https://github.com/asthasharma98/Searchify-Google-Search2.0-Clone/blob/master/Readme%20resource/searchify_snap.PNG)
+**Snapshot**
 
+<p align="center">
+<img src="https://github.com/asthasharma98/Searchify-Google-Search2.0-Clone/blob/master/Readme%20resource/searchify_snap.PNG" width="70%" height="50%">
+</p>
 
-### Tools and purpose of the project
+### Tools used and purpose of the project
 
 The main motive behind doing this project was to learn and understand :  
 - React js best practices like 
