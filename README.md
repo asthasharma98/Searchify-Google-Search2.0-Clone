@@ -2,13 +2,13 @@
 
 ### Overview
 
-Searchify is completely responsive and Real custom made google search clone which provies user an ability to search for up to date results, news, images and videos build using `React.js` and `talewind CSS` and `Google search API` and deployed on `Netlify`.
+Searchify is completely responsive and Real custom made google search clone Web application which provies user an ability to search for up to date results, news, images and videos build using `React.js` and `tailwind CSS` and `Google search API` and deployed on `Netlify`.
 
 - To view the Deployed Application, click on the link given below : 
   **Searchify Google clone Web App** : *[https://searchify-google-clone-app.netlify.app/](https://searchify-google-clone-app.netlify.app/)*
   
-  
-
+**Snapshot of App**
+[searchify](https://github.com/asthasharma98/Searchify-Google-Search2.0-Clone/blob/master/Readme%20resource/searchify_snap.PNG)
 
 
 ### Getting Started with Create React App
@@ -37,12 +37,28 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+#### To clone the repository 
+```
+https://github.com/asthasharma98/Searchify-Google-Search2.0-Clone.git
+``` 
+
+### Tools and purpose of the project
+
+The main motive behind doing this project was to learn and understand :  
+- React js best practices like 
+   - decomposition of longer code into small components  
+   - Use of functional components with state and new feature `React hooks` like `useEffect()` and `useState()`.
+   - Appropriate naming and destructuring props etc.
+- The [context system](https://reactjs.org/docs/context.html) with React 
+- How to install integrate [Tailwind CSS](https://tailwindcss.com/docs/installation) with React Application for morden UI, Dark mode and responsive application.
+- how to fetch data from [Google Search API](https://rapidapi.com/apigeek/api/google-search3?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel) using [RapidAPI](https://rapidapi.com/hub?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel) 
+
+***To know about the dependencies used in this project You can check [package.json](https://github.com/asthasharma98/Searchify-Google-Search2.0-Clone/blob/master/package.json) file.*** 
 
 
 ### Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+⭐ You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+⭐ To learn React, check out the [React documentation](https://reactjs.org/).
 
 
