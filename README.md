@@ -1,5 +1,13 @@
 # Searchify-Google-Search 2.0-clone
 
+
+![https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white](	https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+
+
 ### Overview
 
 Searchify is completely responsive and Real custom made google search clone Web application which provides user an ability to search for up to date results, news, images and videos build using `React.js` and `tailwind CSS` and `Google search API` and deployed on `Netlify`.
